@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
