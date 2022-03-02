@@ -4,7 +4,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando back-end
 - 😄 Pronouns: nyet
 
 <div align="center">
