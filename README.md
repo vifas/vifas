@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando back-end
+- 🔭 tentando fazer alguma coisa pelo poquin que eu estudei
+- 🌱 Estudando
 - 😄 Pronouns: nyet
 
 <div align="center">
